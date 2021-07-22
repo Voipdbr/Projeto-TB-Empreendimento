@@ -1,0 +1,98 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    margin-top: 15%;
+    text-align: center;
+}
+
+.main{
+    text-align: -webkit-center;
+}
+
+.header div h1{
+    margin-right: 48px;
+}
+
+.ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.btn-1{
+    display: block;
+    margin-top: -18px;
+    margin-left: 249px;
+    position: absolute;
+    padding: 7px 15px 7px 15px;
+    background-color: white;
+    border-radius: 10px;
+    border-style: ridge;
+    border-width: 4px;
+    cursor: pointer;
+}
+
+.btn-1:hover{
+    background-color: rgb(86, 90, 89);
+    color: white;
+}
+
+.ul li a{
+    display: inline-block;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -45px;
+}
+
+.form1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+    width: 225px;
+}
+.form2{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+    width: 160px;
+}
+.form3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+    width: 160px;
+}
+
+.table{
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+.t-1{
+    border: 3px solid rgb(157, 193, 48);
+    padding: 20px;
+    padding-right: 140px;
+    background-color: rgb(167, 201, 65);
+}
+
+.t-2{
+    border: 3px solid rgb(157, 193, 48);
+    padding: 20px;
+    padding-right: 140px;
+    background-color: white;
+}
+
+.table thead tr th a{
+    color: white;
+    font-weight: bold;
+}
+.table thead tr th td{
+    background-color: white;
+}

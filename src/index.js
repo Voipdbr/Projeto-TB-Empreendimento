@@ -1,17 +1,20 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import ReactDom from 'react-dom';
+import Header from './header.js';
+import './css/body.css';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+ReactDom.render(
+    <Header/>,
+    document.getElementById('root')
+)
+
+/*const app = express();
+
+const CONNECTION_URL = 'mongodb+srv://desafioUser:desafioPassword@apptruckcluster.lgcd0.mongodb.net/Desafio?retryWrites=true&w=majority';
+
+mongoose.connect(CONNECTION_URL, {useNewUrlParser: true, useUnifiedTopology: true})
+.then(() => app.listen(CONNECTION_URL, () => console.log('Servidor rodando')))
+.catch((error) => console.log(error.message));
+
+mongoose.set('useEncontreModifique', false);*/
