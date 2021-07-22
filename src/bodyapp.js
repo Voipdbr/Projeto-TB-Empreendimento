@@ -1,7 +1,6 @@
 import React from 'react'
 import Nav from './nav.js';
 import './css/header.css';
-import Resultado from'./db.js';
 
 /*<Resultado>
     </Resultado>findResult*/
@@ -14,7 +13,6 @@ function Header(){
         <h1>Cadastro e Listagem de Produtos</h1>
     </div>
     <Nav/>
-    <Resultado/>
     </header>
     <Main/>
     </>
