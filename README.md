@@ -1,4 +1,4 @@
-<img src="https://github.com/Voipdbr/Projeto-TB-Empreendimento/blob/master/video/tela.gif" alt="Voipdbr"  width="400" alt="404 image"/>
+<img src="https://github.com/Voipdbr/Projeto-TB-Empreendimento/blob/master/video/voip.gif" alt="Voipdbr"  width="400" alt="404 image"/>
 
 <h1>Projeto TB Empreendimento</h1>
 
