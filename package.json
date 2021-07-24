@@ -47,5 +47,18 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
-  }
+  },
+  "description": "<img src=\"https://github.com/Voipdbr/Projeto-TB-Empreendimento/blob/master/video/tela.gif\" alt=\"Voipdbr\"  width=\"400\" alt=\"404 image\"/>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voipdbr/Projeto-TB-Empreendimento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Voipdbr/Projeto-TB-Empreendimento/issues"
+  },
+  "homepage": "https://github.com/Voipdbr/Projeto-TB-Empreendimento#readme"
 }
