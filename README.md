@@ -20,7 +20,7 @@ No desafio foi solicitado que nós utilizássemos as tecnologias a seguir.
 
 Como solicitado utilizei as tecnologias solicitadas.
 
-Utilizei uma framework, biblioteca e um cliente chamados: Express, Mongoose e Axios.
+Utilizei uma framework, biblioteca e um cliente chamados: Express, Mongoose e Axios.<p></p>
 Para a comunicação com a API.
 
 <h2>## Como executar?</h2>
