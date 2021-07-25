@@ -3,8 +3,6 @@ import Nav from './nav.js';
 import '../css/header.css';
 import Main from '../store/store.js';
 import api from '../service';
-import { ToastContainer } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
 function Header(){
     const [listaProduto, setListaProduto] = useState([]);
     const load = () => {
@@ -28,7 +26,6 @@ function Header(){
         <Nav load={load} />
         </header>
         <Main listaProduto={listaProduto} />
-        <ToastContainer />
     </>
     );
 }
