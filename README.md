@@ -18,9 +18,13 @@ No desafio foi solicitado que nós utilizássemos as tecnologias a seguir.
 ● MongoDB✔
 <p></p>
 
-Como solicitado utilizei as tecnologias solicitadas.
+Como solicitado utilizei estas tecnologias.
 
+<<<<<<< HEAD
 Utilizei uma framework, biblioteca e um cliente chamados: Express, Mongoose e Axios.<p></p>
+=======
+Além das tecnologias anteriores, utilizei também uma framework, biblioteca e um cliente, chamados: Express, Mongoose e Axios.<p></p>
+>>>>>>> b1f7ea082303ff0e2d7d17b3a5895734c7a3881c
 Para a comunicação com a API.
 
 <h2>## Como executar?</h2>
